@@ -1,0 +1,14 @@
+C:\Programmering2\Metoder\bin\Debug\net8.0\Metoder.exe
+C:\Programmering2\Metoder\bin\Debug\net8.0\Metoder.deps.json
+C:\Programmering2\Metoder\bin\Debug\net8.0\Metoder.runtimeconfig.json
+C:\Programmering2\Metoder\bin\Debug\net8.0\Metoder.dll
+C:\Programmering2\Metoder\bin\Debug\net8.0\Metoder.pdb
+C:\Programmering2\Metoder\obj\Debug\net8.0\Metoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programmering2\Metoder\obj\Debug\net8.0\Metoder.AssemblyInfoInputs.cache
+C:\Programmering2\Metoder\obj\Debug\net8.0\Metoder.AssemblyInfo.cs
+C:\Programmering2\Metoder\obj\Debug\net8.0\Metoder.csproj.CoreCompileInputs.cache
+C:\Programmering2\Metoder\obj\Debug\net8.0\Metoder.dll
+C:\Programmering2\Metoder\obj\Debug\net8.0\refint\Metoder.dll
+C:\Programmering2\Metoder\obj\Debug\net8.0\Metoder.pdb
+C:\Programmering2\Metoder\obj\Debug\net8.0\Metoder.genruntimeconfig.cache
+C:\Programmering2\Metoder\obj\Debug\net8.0\ref\Metoder.dll
