@@ -12,3 +12,4 @@ C:\Programmering2\Metoder\obj\Debug\net8.0\refint\Metoder.dll
 C:\Programmering2\Metoder\obj\Debug\net8.0\Metoder.pdb
 C:\Programmering2\Metoder\obj\Debug\net8.0\Metoder.genruntimeconfig.cache
 C:\Programmering2\Metoder\obj\Debug\net8.0\ref\Metoder.dll
+C:\Programmering2\Metoder\obj\Debug\net8.0\Metoder.sourcelink.json

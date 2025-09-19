@@ -54,7 +54,13 @@
 
 //METOD#2
 
-// StartCountdown(10);
+// int startValue;
+// Console.WriteLine("Hur lång countdown ska du ha?");
+// string answer = Console.ReadLine() ?? string.Empty;
+// int.TryParse(answer, out startValue);
+
+
+// StartCountdown(startValue);
 // Console.ReadLine();
 
 // static void StartCountdown(int startValue)
@@ -68,44 +74,64 @@
 //         Thread.Sleep(1000);
 //     }
 
-
-
 // }
 
 
 
 //METOD#3
 
-GetNumb();
-Console.ReadLine();
+// GetNumb();
+// Console.ReadLine();
 
-int GetNumb()
-{
-    
-        Console.WriteLine("Skriv in ett positivt heltal");
-        string answer = Console.ReadLine() ?? string.Empty;
-        int result;
-       bool success = int.TryParse(answer, out result);
-    while (success == false)
-    {
-             if (success == true)
-            {
-                Console.WriteLine(result);
-                break;
-            }
-            else {
-            Console.WriteLine("Try again bozo");
-            Console.ReadLine();
-                
-            }
-        
-    }
-
-    
-      return result;
-}
+// int GetNumb()
+// {
+//   int result;
+//   while (true)
+//   {
 
 
+//     Console.WriteLine("Skrive ett positivt heltal!");
+//     string answer = Console.ReadLine() ?? string.Empty;
+//     bool success = int.TryParse(answer, out result);
+//     if (true && result >= 1)
+//     {
+//       Console.WriteLine($" Du valde att skriva: {result}");
+//       break;
+//     }
+
+//     else
+//     {
+//       Console.WriteLine("Try again bozo");
+
+//     }
+//   }
+
+//       return result;
+// }
+
+
+
+//Metod#4
+
+// float Farenheit = 0;
+// Console.WriteLine("Hur mycket Farenheit vill du konvertera till Celcius?");
+// string answer = Console.ReadLine() ?? string.Empty;
+// float.TryParse(answer, out Farenheit);
+
+// float c = GetCelcius(Farenheit);
+
+// Console.WriteLine($"{Farenheit} Farenheit är {c} celcius");
+
+
+// float GetCelcius(float Farenheit)
+// {
+//   float celcius = (Farenheit - 32) * 5 / 9;
+//   return celcius;
+// }
+
+
+
+// Console.ReadLine();
 
 
 
